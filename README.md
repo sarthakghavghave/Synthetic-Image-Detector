@@ -15,7 +15,7 @@ The main goals are:
 
 ---
 
-## 🧩 Dataset
+## Dataset
 **GenImage: A Million-Scale Benchmark for Detecting AI-Generated Images**
 
 - Source: [GenImage GitHub Repository](https://github.com/GenImage-Dataset/GenImage)
@@ -28,7 +28,7 @@ The main goals are:
 
 ---
 
-## 🚀 Current Version — `Synthetic_Image_Detection_v0.x`
+## Current Version — `Synthetic_Image_Detection_v0.x`
 Baseline CNN implementation (**SimpleCNN_v2**) with:
 - Batch Normalization and Dropout for stability.
 - Mixed Precision Training for efficiency.
@@ -41,7 +41,7 @@ Baseline CNN implementation (**SimpleCNN_v2**) with:
 
 ---
 
-## 🔮 Future Plans
+## Future Plans
 - Transfer learning using pre-trained architectures (ResNet, EfficientNet).
 - Larger training set covering more generators.
 - Implement **Ensemble Learning** for improved robustness.
@@ -49,7 +49,7 @@ Baseline CNN implementation (**SimpleCNN_v2**) with:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Language:** Python 3.11.0
 - **Frameworks:** PyTorch, torchvision
 - **Visualization:** Matplotlib, tqdm
