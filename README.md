@@ -57,8 +57,8 @@ Baseline CNN implementation (**SimpleCNN_v2**) with:
 
 ---
 
-```markdown
 ## 📁 Folder Structure
+```markdown
 Synthetic-Image-Detector/
 │
 ├── datasets/
