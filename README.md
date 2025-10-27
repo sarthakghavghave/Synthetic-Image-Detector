@@ -57,6 +57,7 @@ Baseline CNN implementation (**SimpleCNN_v2**) with:
 
 ---
 
+```markdown
 ## 📁 Folder Structure
 Synthetic-Image-Detector/
 │
@@ -77,6 +78,7 @@ Synthetic-Image-Detector/
 ├── requirements.txt
 ├── LICENSE
 └── README.md
+```
 
 
 Sarthak Ghavghave
